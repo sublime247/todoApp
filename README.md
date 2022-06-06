@@ -1,16 +1,4 @@
-# todoapp
+A simple TodoApp where a users can add the list of their schedules/todos  and if excecuted they can easily delete the particular todo.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-06-06 112941](https://user-images.githubusercontent.com/72566175/172145534-d548b6c6-e116-4dd5-9bed-bcc514f8f63e.jpg)
+![Screenshot_20220606_113029](https://user-images.githubusercontent.com/72566175/172146039-cb517419-72b9-4327-8c79-504506eba075.jpg)
